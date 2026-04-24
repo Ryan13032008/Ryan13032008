@@ -24,7 +24,6 @@ Tenho interesse em **automação**, **desenvolvimento web** e **análise de dado
 ## 🧠 O que eu faço
 
 -   🤖 Automação com Python (Selenium, PyAutoGUI)
--   🌐 Desenvolvimento web com Django
 -   ☕ Programação em Java
 -   📊 Análise de dados (nível médio)
 -   🗄️ Conhecimentos básicos em banco de dados
@@ -43,7 +42,6 @@ Tenho interesse em **automação**, **desenvolvimento web** e **análise de dado
 
 ### Bibliotecas & Frameworks
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-000000?style=for-the-badge&logo=python&logoColor=white)
 
